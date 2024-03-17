@@ -1,0 +1,4 @@
+user: "dml_user"
+password: "ezDI2020!"
+host: "staging-ezbhasha.ckcsq7vp0ti5.us-east-1.rds.amazonaws.com"
+db: "si_validation_db"
